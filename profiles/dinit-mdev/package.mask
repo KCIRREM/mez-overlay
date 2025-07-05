@@ -1,9 +1,3 @@
 sys-fs/udev
-sys-apps/sysvinit
-sys-apps/openrc
-sys-apps/s6
-sys-apps/s6-rc
-sys-apps/systemd
-sys-process/runit
 # virtual/service-manager::gentoo
 # virtual/dev-manager::gentoo
