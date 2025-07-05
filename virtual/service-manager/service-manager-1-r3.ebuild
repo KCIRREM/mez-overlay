@@ -8,12 +8,12 @@ SLOT="0"
 KEYWORDS="~alpha amd64 arm arm64 hppa ~loong ~m68k ~mips ppc ppc64 ~riscv ~s390 sparc x86 ~amd64-linux ~x86-linux ~arm64-macos ~ppc-macos ~x64-macos ~x64-solaris"
 
 RDEPEND="
+	dinit? ( sys-process/dinit )
 	!prefix-guest? (
 		|| (
 			sys-apps/openrc
 			kernel_linux? (
 				|| (
-					sys-process/dinit
 					sys-apps/s6-rc
 					sys-apps/systemd
 					sys-process/runit
