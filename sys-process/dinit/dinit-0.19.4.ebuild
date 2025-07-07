@@ -11,7 +11,12 @@ LICENSE="Apache-2.0"
 SLOT="0"
 KEYWORDS="~amd64"
 
-RDEPEND="!!sys-apps/sysvinit"
+RDEPEND="
+  !sys-apps/openrc[sysvinit,sysv-utils,s6]
+  !sys-apps/s6-linux-init[sysv-utils]
+  !sys-apps/systemd[sysv-utils]
+  !sys-apps/sysvinit
+"
 
 inherit meson
 
