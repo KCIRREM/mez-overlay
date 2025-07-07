@@ -1,3 +1,2 @@
 sys-fs/udev
-# virtual/service-manager::gentoo
-# virtual/dev-manager::gentoo
+virtual/service-manager::gentoo
