@@ -1,1 +1,1 @@
-USE="${USE} mdev"
+USE="${USE} mdev dinit"
