@@ -1,6 +1,1 @@
 udev
-sysv-utils
-sysvinit
-s6
-systemd
-openrc
