@@ -14,7 +14,7 @@ KEYWORDS="~amd64"
 RDEPEND="
   !sys-apps/openrc[sysvinit,sysv-utils,s6]
   !sys-apps/s6-linux-init[sysv-utils]
-  !sys-apps/systemd[sysv-utils]
+  !sys-apps/systemd
   !sys-apps/sysvinit
 "
 
