@@ -1,2 +1,1 @@
 sys-fs/udev
-virtual/service-manager::gentoo
