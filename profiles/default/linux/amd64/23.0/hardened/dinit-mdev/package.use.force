@@ -1,1 +1,2 @@
 virtual/service-manager dinit
+sys-apps/busybox static mdev
