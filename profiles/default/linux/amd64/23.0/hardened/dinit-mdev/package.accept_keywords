@@ -1,2 +1,3 @@
 sys-process/dinit ~amd64
 sys-libs/libudev-zero ~amd64
+sys-config/ltoize ~amd64
