@@ -1,5 +1,0 @@
-sys-process/dinit ~amd64
-sys-libs/libudev-zero ~amd64
-sys-config/ltoize ~amd64
-sys-kernel/installkernel ~amd64
-sys-boot/uefi-mkconfig ~amd64
