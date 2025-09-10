@@ -1,1 +1,2 @@
 sys-libs/libudev-zero ~amd64
+sys-fs/mdevd ~amd64
